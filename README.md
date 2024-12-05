@@ -1,0 +1,4 @@
+- This is a small project I made after reading the OOP and queue section of my A level computer science specification so that I can learn how to properly do OOP and fully understand how queues work
+- After finishing it in 2 days I decided to stress test it with 500 inputs and it passed all of them
+- I have now decided to also upload it to PyPi so it is able to be accessed via pip
+- If you know how to improve the project in any way feel free to fork it and improve it and if possible could you explain what you improved as it would allow me how to write better code.
