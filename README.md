@@ -3,3 +3,5 @@
 - I have now decided to also upload it to PyPi so it is able to be accessed via pip
 - If you know how to improve the project in any way feel free to fork it and improve it and if possible could you explain what you improved as it would allow me how to write better code.
 - There is also a TEST.py file in this project which has example uses of the function I made, I will try to make proper documentation for it soon
+- Here is the link to the pypi page https://pypi.org/manage/project/basicqueue/releases/
+- You can use pip install basicQueue to use it
